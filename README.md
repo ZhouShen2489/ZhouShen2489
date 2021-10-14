@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Mechatronics，Evolutionary Algorithm
 - 💞️ I’m looking to collaborate on soft robot
 - 📫 How to reach me @zshen2489@columbia.edu
+- Here is my portfolio link: 
 
 <!---
 ZhouShen2489/ZhouShen2489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
