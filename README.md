@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on soft robot
 - 📫 How to reach me @zshen2489@columbia.edu
 - My Github Page is: https://zhoushen2489.github.io/ZhouShen2489/
-- Here is my portfolio link: 
+- Here is my portfolio link:  Nothing now
 
 <!---
 ZhouShen2489/ZhouShen2489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
