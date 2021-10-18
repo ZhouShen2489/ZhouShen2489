@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on soft robot
 - 📫 How to reach me @zshen2489@columbia.edu
 - My Github Page is: https://zhoushen2489.github.io/ZhouShen2489/
- - Another page is:
- - The third page is:
+  - Another page is:
+  - The third page is:
 My interests includes:
 1. Basketball
 2. Dance
