@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZhouShen2489
 - 👀 I’m interested in Robotics, Algorithms
 - 🌱 I’m currently learning Intro to Database, Computer Vision, Robot Studio, Digital Manufacturing
-- 💞️ I’m looking to collaborate on soft robot
 - 📫 How to reach me @zshen2489@columbia.edu
 - My Github Page is: https://zhoushen2489.github.io/ZhouShen2489/
 My interests includes:
