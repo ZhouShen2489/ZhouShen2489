@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhouShen2489
 - 👀 I’m interested in Robotics, Algorithms
 - 🌱 I’m currently learning Intro to Database, Computer Vision, Robot Studio, Digital Manufacturing
-- 📫 How to reach me @zshen2489@columbia.edu
+- 📫 How to reach me @zshen2489@columbia.edu / @noahshenzhou@gmail.com
 - My Github Page is: https://zhoushen2489.github.io/ZhouShen2489/
 My interests includes:
 1. Reading sci-fi
