@@ -4,12 +4,10 @@
 - 💞️ I’m looking to collaborate on soft robot
 - 📫 How to reach me @zshen2489@columbia.edu
 - My Github Page is: https://zhoushen2489.github.io/ZhouShen2489/
-  - Another page is:
-  - The third page is:
 My interests includes:
-1. Basketball
-2. Dance
-3. Rap
+1. Reading sci-fi
+2. Cooking (any kinds of Chinese food)
+3. Photographing
 
 ```python
 print("Hello World!")
